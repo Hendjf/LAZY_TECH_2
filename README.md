@@ -50,7 +50,7 @@ All classic text-menu scripts have been modernized with easy, clickable GUIs for
 
 ## Collaboration & Credits
 
-- **Original scripts & design:** Cypher Playfair (Playfair/Cypher/Jalena)
+- **Original scripts & design:** Cypher Playfair (Playfair/Kingworm)
 - **GUI refactor, debugging:** Playfair + Kingworm
 - **Realtime co-dev:** Discord, ChatGPT, message.txt
 
